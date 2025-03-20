@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestWithPoetry</string>
+    <string name="try_me_text">Try me %1$s&#160;</string>
 </resources>
